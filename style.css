@@ -48,7 +48,7 @@ h1 {
     border-radius: 10px;
     width: 10vw;
     height: 30px;
-    background-color: black;
+    background-color: blue;
     text-decoration: none;
 }
 #main #image2 {
@@ -74,7 +74,7 @@ h1 {
     border-radius: 10px;
     width: 10vw;
     height: 30px;
-    background-color: black;
+    background-color: blue;
     text-decoration: none;
 }
 #main #image3 {
@@ -100,7 +100,7 @@ h1 {
     border-radius: 10px;
     width: 10vw;
     height: 30px;
-    background-color: black;
+    background-color: blue;
     text-decoration: none;
 }
 #gallery {
@@ -129,7 +129,7 @@ footer #Daksh {
     margin-top: 10px;
 }
 
-@media (max-width: 650px) {
+@media (max-width: 480px) {
     header {
         background-color: black;
         display: flex;
@@ -175,7 +175,7 @@ footer #Daksh {
         border-radius: 10px;
         width: 30vw;
         height: 30px;
-        background-color: black;
+        background-color: blue;
         text-decoration: none;
     }
     
@@ -201,7 +201,7 @@ footer #Daksh {
         border-radius: 10px;
         width: 30vw;
         height: 30px;
-        background-color: black;
+        background-color: blue;
         text-decoration: none;
     }
     #main #image3 {
@@ -226,7 +226,7 @@ footer #Daksh {
         border-radius: 10px;
         width: 30vw;
         height: 30px;
-        background-color: black;
+        background-color: blue;
         text-decoration: none;
     }
     #gallery {
