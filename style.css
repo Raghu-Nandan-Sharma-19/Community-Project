@@ -129,7 +129,7 @@ footer #Daksh {
     margin-top: 10px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 650px) {
     header {
         background-color: black;
         display: flex;
@@ -138,7 +138,7 @@ footer #Daksh {
         align-items: center;
     }
     h1 {
-        font-size: 20px;
+        font-size: 25px;
         color: white;
     }
     #main {
